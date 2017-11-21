@@ -1,6 +1,9 @@
 # NgxCv
 
 This npm provides an efficient way to convert your json data to Curriculum vitae format.
+### View Sample CV
+![sample cv](https://github.com/soniabehal/ngx-cv/blob/master/doc/abc_.pdf)
+
 
 ### Installation
 install using npm 
